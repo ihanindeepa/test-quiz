@@ -1,0 +1,112 @@
+[
+  {
+    "q": "What is the optimal percentage of egg weight moisture loss by Day 18 of incubation to ensure optimal hatchability in broiler eggs?",
+    "options": [
+      "5–7%",
+      "8–10%",
+      "12–14%",
+      "18–20%"
+    ],
+    "answer": 2,
+    "explanation": "Broiler hatching eggs require a moisture loss of approximately 12–14% of their initial weight by Day 18 for proper air cell expansion and successful internal pipping."
+  },
+  {
+    "q": "During egg candling on Days 5–8 of incubation, the presence of a distinct blood ring surrounding the yolk indicates which outcome?",
+    "options": [
+      "Normal embryonic vascular development",
+      "Early embryonic death",
+      "Infertile or unfertilized egg",
+      "Bacterial contamination (Omphalitis)"
+    ],
+    "answer": 1,
+    "explanation": "A visible blood ring surrounding the yolk during Day 5–8 candling denotes early embryonic death, whereas infertile eggs remain completely clear with no vascular development."
+  },
+  {
+    "q": "Why are multi-stage incubators unable to undergo regular all-in/all-out cleaning and disinfection every 18 days?",
+    "options": [
+      "They operate with high continuous airflow that prevents liquid sanitation",
+      "They hold 3 to 6 different embryo developmental ages simultaneously and are never empty",
+      "They require high continuous carbon dioxide levels above 2.0%",
+      "Their internal walls are constructed of porous, non-washable material"
+    ],
+    "answer": 1,
+    "explanation": "Multi-stage setters hold 3 to 6 different age batches of embryos simultaneously to balance endothermic and exothermic heat dynamics, meaning the machine is never completely emptied for routine sanitation."
+  },
+  {
+    "q": "Which class of domestic chickens is characterized by a triangular body shape, white earlobes, non-broodiness, and high feed conversion efficiency for egg production?",
+    "options": [
+      "Asiatic class",
+      "Mediterranean class",
+      "English class",
+      "American class"
+    ],
+    "answer": 1,
+    "explanation": "The Mediterranean class (e.g., Leghorn) is recognized for its triangular shape, white earlobes, non-broody behavior, and high feed conversion efficiency dedicated to egg production."
+  },
+  {
+    "q": "All modern domestic chicken breeds are believed to have evolved primarily from which wild jungle fowl species?",
+    "options": [
+      "Gallus lafayeti (Sri Lankan jungle fowl)",
+      "Gallus sonneratii (Grey jungle fowl)",
+      "Gallus gallus (Red jungle fowl)",
+      "Gallus varius (Javan jungle fowl)"
+    ],
+    "answer": 2,
+    "explanation": "Domestic chickens evolved primarily from the Red jungle fowl (Gallus gallus)."
+  },
+  {
+    "q": "Under normal environmental housing conditions, what is the standard expected ratio of water intake relative to feed intake in broilers?",
+    "options": [
+      "0.5–1.0 times feed intake",
+      "1.6–2.0 times feed intake",
+      "3.0–4.0 times feed intake",
+      "5.0–6.0 times feed intake"
+    ],
+    "answer": 1,
+    "explanation": "Under normal management conditions, broilers consume 1.6 to 2.0 times more water than feed, which can rise to 3–4 times during severe heat stress."
+  },
+  {
+    "q": "What is the recommended downtime (rest period) between consecutive broiler flocks to ensure proper terminal cleaning, disinfection, and disease cycle disruption?",
+    "options": [
+      "2–4 days",
+      "5–8 days",
+      "14–21 days",
+      "30–40 days"
+    ],
+    "answer": 2,
+    "explanation": "A rest period of 14 to 21 days (2–3 weeks) is required between broiler batches to clean, wash, disinfect, dry the house, and break pathogen cycles."
+  },
+  {
+    "q": "Why is the first 6 hours post-farrowing designated as the critical window for neonatal piglet colostrum ingestion?",
+    "options": [
+      "Piglets are born agammaglobulinemic, and intestinal enterocytes absorb intact immunoglobulins maximally before gut closure at ~24 hours",
+      "Piglet body fat drops to zero after 6 hours",
+      "Colostrum transitions into mature milk immediately after the 6th hour",
+      "Maternal antibodies can only pass across the epitheliochorial placenta in the first 6 hours"
+    ],
+    "answer": 0,
+    "explanation": "Because swine possess an epitheliochorial placenta that prevents in utero antibody transfer, piglets are born without maternal antibodies and must absorb colostral IgG via enterocytic macromolecular pinocytosis during the first 6 hours before gut closure occurs at ~24 hours."
+  },
+  {
+    "q": "Which group gestation feeding system utilizes computer-controlled RFID recognition to deliver customized individual rations while completely preventing feed competition?",
+    "options": [
+      "Floor Feeding",
+      "Short Feeding Stalls with head partitions",
+      "Electronic Sow Feeders (ESF)",
+      "Ad libitum Hopper Feeding"
+    ],
+    "answer": 2,
+    "explanation": "Electronic Sow Feeders (ESF) use individual RFID identification tags to allocate customized rations according to body condition and gestation stage, eliminating feed bullying and competition."
+  },
+  {
+    "q": "Using the standard daily lactation feed allowance formula (2.0 kg base maintenance + 0.20 to 0.30 kg per piglet), what is the calculated daily ration range for a sow nursing 10 piglets?",
+    "options": [
+      "2.5 to 3.5 kg/day",
+      "4.0 to 5.0 kg/day",
+      "5.5 to 6.5 kg/day",
+      "7.0 to 8.0 kg/day"
+    ],
+    "answer": 1,
+    "explanation": "The daily feed allowance is calculated as: 2.0 kg base + (10 piglets × 0.20 to 0.30 kg) = 4.0 to 5.0 kg/day (averaging 4.5 kg/day)."
+  }
+]
